@@ -1,1 +1,1 @@
-# Building-a-Simple-Content-Summarizer-with-Amazon-Bedrock
+# Building-a-Simple-Content-Summarizer-with-Amazon-Bedrock m
